@@ -1,0 +1,7 @@
+# t = TonAI()
+# message = "Яке найстаріше дерево на планеті?"
+# result = t.search(message)
+# "service_id": "qdfmo6h8dn62wyx",
+#                         "input_text": "Hello"
+
+# print(result)
